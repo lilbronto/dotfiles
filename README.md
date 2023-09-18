@@ -1,4 +1,4 @@
-This repository is used by [Le Wagon](https://www.lewagon.com) students.
+# Custom dotfiles for personal use
 
 ## Toolset
 
